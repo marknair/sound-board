@@ -1,2 +1,2 @@
-# web-project-starter-code
-A sourdough starter for some web projects
+# Sound Board
+A simple sound board for experimentation
